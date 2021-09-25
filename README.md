@@ -1,2 +1,2 @@
-# OOP-team-portfolio
-Generate  your programming team portfolio through the command line. 
+Team Portfolio Generator
+Keep your employee team memebers organized with this node command line application. 
