@@ -27,6 +27,9 @@
   After you're finished, your html file will be generated inside the dist folder of the cloned project directory. 
   
   ![htmlExample](https://user-images.githubusercontent.com/79805880/134787238-38782cd0-2a46-4519-94a2-59d46feac462.png)
+  
+  Watch the video below for a short tutorial. 
+  https://watch.screencastify.com/v/wc7rseU9VMQeEF3unPTf
 
   
   
