@@ -1,2 +1,2 @@
 Team-Portfolio-Generator:
-Keep your employee team memebers organized with this node command line application. 
+Keep your employees/team organized with this node command line application. 
