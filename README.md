@@ -36,7 +36,9 @@
   Anyone is welcome to contribute to this project. Just create a branch and submit a pull request for review. 
   
   ## Tests
-  
+  To run included tests simply navigate to the _tests_ folder and run "npm run test" in the command line. 
+  ![tests-oop](https://user-images.githubusercontent.com/79805880/134787776-fbb9079e-d88e-4497-b612-7be91970dbd8.png)
+
  
   ## License 
   
