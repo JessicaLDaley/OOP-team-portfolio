@@ -4,7 +4,7 @@
    ## Description 
 
   
-  Keep your employee team info organized with this command line team portfolio generator. 
+  Keep your employee team info clean and organized with this easy to use command line portfolio generator. 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
