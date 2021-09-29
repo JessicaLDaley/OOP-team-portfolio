@@ -28,7 +28,7 @@
   
   ![htmlExample](https://user-images.githubusercontent.com/79805880/134787238-38782cd0-2a46-4519-94a2-59d46feac462.png)
   
-  Click this link the for a short video tutorial. 
+  Click this link for a short video tutorial. 
   https://watch.screencastify.com/v/wc7rseU9VMQeEF3unPTf
 
   
