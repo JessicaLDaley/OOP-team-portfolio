@@ -15,7 +15,7 @@
   ## Installation
   
  
-   Clone the repository then navigate to the directory in the comman line and invoke the application with node index.js 
+   Clone the repository, then navigate to the directory in the command line and invoke the application with node index.js 
    
    ![invoke-team-port](https://user-images.githubusercontent.com/79805880/134787280-027037cc-c28f-4fe4-a5ad-928e097e496c.png)
 
